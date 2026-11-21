@@ -1,4 +1,4 @@
-# DS Helper Series
+# Supreme DS Adventure
 
 A growing collection of ready-to-use Data Structure header files in C, paired with simple guides so you can understand how they work and plug them straight into your own code.
 
